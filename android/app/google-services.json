@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946698561561",
+    "project_id": "readjsonfile-d0f16",
+    "storage_bucket": "readjsonfile-d0f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946698561561:android:aef75d4a8d5af5a6d46288",
+        "android_client_info": {
+          "package_name": "com.example.readjsonfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946698561561-cfa8u2sc49nk38si847uli3ka1h6p895.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeVoXNYwdGcD5_AuvUqZGD8MkGghIfbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946698561561-cfa8u2sc49nk38si847uli3ka1h6p895.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
